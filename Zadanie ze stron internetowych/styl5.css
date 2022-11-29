@@ -1,0 +1,63 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+body{margin: auto;
+    background-color: #86ACDD;
+    margin:0;
+    padding:0;
+    height:100%;}
+header{
+    background-color: #1C59A7;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+.ulek{
+margin-left: 40px;
+}
+.lewy{
+    background-color: #3A70B5;
+    width: 33%;
+    height: 200px;
+}
+.środkowy {
+    background-color: #5A8AC8;
+    width: 34%;
+    height: 200px;
+}
+.prawy{
+    background-color: #86ACDD;
+    text-align: center;
+    width: 34%;
+    height: 200px;
+}
+.dolny{
+    background-color: #86ACDD;
+    text-align: center;
+}
+footer{
+    background-color: #1C59A7;
+    color: white;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+.odsylacz {
+    background-color: yellow;
+    color: blue;
+    margin: 10px;
+}
+.aaa{
+    margin: 10px;
+}
+img{ height: 70px;}
+.container {
+    display: flex;
+
+}
+h2{
+    padding-bottom: 10px;
+}
+
